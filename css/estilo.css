@@ -1,0 +1,46 @@
+/*.backg{
+    background-image: url("https://gentedemoto.com/wp-content/uploads/2018/12/838-Rutas-Moto-Argentina-Ruta-3.jpg");
+    background-size: 80% ;
+
+}*/
+
+header{
+    background-color: rgba(245, 245, 245, 0.315);
+    width: 70%;
+    height: auto;
+    margin: 0px auto;
+    border: 2px solid rgba(31, 31, 31, 0.842)
+}
+
+nav ul li{
+
+    margin: 10px;
+}
+
+.menu{
+    color: rgb(0, 229, 236) ;
+    font-family: 'Source Sans Pro', sans-serif;
+    list-style: none;
+    margin: 10px auto;
+}
+
+.hdrin{
+    padding: 5px;
+}
+
+.espec{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.specs{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+table{  
+    background-color: #cccccc;
+    border: 3px solid;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+}
